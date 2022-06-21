@@ -1,2 +1,2 @@
 # tutorpoint
-Suveen Consultanats Bootstrap Internship project 1
+Suveen Consultants Bootstrap Internship project 1
